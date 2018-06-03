@@ -28,7 +28,7 @@ public class ExampleAuthenticator extends Authenticator
    * Returns the cached credentials. This is a basic implementation that only
    * verifies that the requestor is a proxy. A more complicated implementation
    * could check the URL and other parameters of the request to supply different
-   * credenials.
+   * credentials.
    **/
   protected PasswordAuthentication getPasswordAuthentication()
   {

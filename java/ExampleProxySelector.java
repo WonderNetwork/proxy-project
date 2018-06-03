@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * Example implementation of a ProxySelector. ProxySelectors allow you to specify
- * how the VM will connect to a remote host.
+ * how Java will connect to a remote host.
  *
  * @author WonderProxy
  **/
